@@ -2,9 +2,9 @@
 
 ##  Git!
 
-- git add -p (por que es Increible)
+- git add -p (por que es Increible) 
 - que hace que un pull request sea bueno?
-- git clone vs fork vs por que hacer cualquiera de ellos? 
+- git clone vs fork vs por que hacer cualquiera de ellos? (Diego z)
 - Git head Maria
 
 ## The Internet!
@@ -37,7 +37,7 @@
 ## JavaScript under the hood.
 
 - Hoisting
-- .call() y .apply() Maria
+- .call() y .apply()
 - .bind()
 - event delegation
 
